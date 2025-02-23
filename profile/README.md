@@ -12,7 +12,7 @@ D&A에서는 데이터 분석과 Machine Learning / Deep Learning과 같은 AI �
 ✅ GUIDE, BASIC, Machine Learning, Deep Learning, CONFERENCE SESSION <br>
 ✅ 졸업하신 선배님, 혹은 현직자 분들의 초청 강연회 <br>
 ✅ 매주 세션 스터디 진행 <br>  
-✅ 공모전 및 스터디 매칭 <br>
+✅ 공모전 및 스터디 매칭 
 
 📢 **Join Us!**  
 D&A는 데이터와 AI를 배우고 활용하는 것을 즐기는 모든 사람들에게 열려 있습니다. 😃  
